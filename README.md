@@ -71,4 +71,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Let me know if additional details or adjustments are needed!
