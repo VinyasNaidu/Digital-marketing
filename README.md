@@ -62,11 +62,6 @@ This project investigates the effectiveness of Instagram compared to other socia
 - Implement real-time data analysis to enable more adaptive marketing decisions.
 - Explore qualitative aspects of campaign content and audience engagement.
 
-## How to Run
-1. Clone the repository and ensure all required Python libraries are installed.
-2. Import the dataset and follow the steps in the notebook for preprocessing, analysis, and visualization.
-3. Execute statistical tests and review visual outputs for insights.
-
 ## Deliverables
 - **Python Notebook**: Includes code for data preprocessing, statistical analysis, and visualizations.
 - **Visualizations**: Histograms, interval plots, and box plots for comprehensive insights.
